@@ -33,13 +33,13 @@ for i in z:
      
     (z.sort(reverse=True))
 print(z)
-for i in z:
-    if i in e:
-        e[i] +=1
-    else:
-        e[i] = 1
-e = sorted(z, key=i, reverse=True)  # повернутися 
-print(*e)
+# for i in z:
+#     if i in e:
+#         e[i] +=1
+#     else:
+#         e[i] = 1
+# e = sorted(z, key=i, reverse=True)   
+# print(*e)
 
 
 
